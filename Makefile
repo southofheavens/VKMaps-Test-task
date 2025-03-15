@@ -2,7 +2,6 @@ CXX = clang++
 CXXFLAGS = -std=c++14
 
 BUILD_DIR = build
-INC_DIR = include
 SRC_DIR = src
 
 MAIN_SRC = main.cpp
